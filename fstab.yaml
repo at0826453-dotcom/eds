@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://drive.google.com/drive/folders/1jDNcHHIIhXglBCCVxq7nCqSHSHf_3Gkc
+    type: markup
